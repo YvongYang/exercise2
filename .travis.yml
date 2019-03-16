@@ -5,3 +5,5 @@ before_install:
   - npm install
   - npm install mocha -g
 cache: npm
+
+#Test the if commit contributions work
